@@ -1,0 +1,10 @@
+#buttons-holder{
+    display: flex;
+    flex-wrap: wrap;
+    width: 10vw;
+}
+
+.calc-button{
+    width: 25%;
+    aspect-ratio: 1/1;
+}
